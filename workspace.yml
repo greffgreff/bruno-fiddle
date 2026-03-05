@@ -1,0 +1,14 @@
+opencollection: 1.0.0
+info:
+  name: "cokiosk-api"
+  type: workspace
+
+collections:
+  - name: "My Collection"
+    path: "collections/My Collection"
+
+specs:
+
+docs: ''
+
+activeEnvironmentUid: obi189000000000000000
